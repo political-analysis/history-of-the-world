@@ -2,7 +2,7 @@ Cultures in all regions of the world for all of known history have had [stories 
 
 By "the world," I shall mean "what exists." In this nomenclature, the known universe is part of the world. We assume there are unknown things that exist, which are also part of the world. God is part of the world, if God exists; angels are part of the world if they exist; and so forth.
 
-The question of the origins of the world is really a conflation of two potentially related questions. First, why does anything exist? This is a deep mystery which has not yieled much to rational investigation. Second, what is the ancient history of the world going back to the beginning of time, if time has a beginning? The second question is also a deep mystery, but more amenable to rational investigation.
+The question of the origins of the world is really a conflation of two potentially related questions. First, why does anything exist? This is a deep mystery which has not yielded much to rational investigation. Second, what is the ancient history of the world going back to the beginning of time, if time has a beginning? The second question is also a deep mystery, but more amenable to rational investigation.
 
 [Cosmology](https://en.wikipedia.org/wiki/Cosmology) tells us about the ancient history of the universe going back to the (theorized) Big Bang. But what is the universe, and is it the same thing as the world? In common usage these terms have nebulous meanings, but we'd like to be precise.
 
