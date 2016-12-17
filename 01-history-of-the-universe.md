@@ -4,7 +4,7 @@ By "the world," I shall mean "what exists." In this nomenclature, the known univ
 
 The question of the origins of the world is really a conflation of two potentially related questions. First, why does anything exist? This is a deep mystery which has not yieled much to rational investigation. Second, what is the ancient history of the world going back to the beginning of time, if time has a beginning? The second question is also a deep mystery, but more amenable to rational investigation.
 
-[Cosmology](https://en.wikipedia.org/wiki/Cosmology) tells us about the ancient history of the universe going back to the Big Bang (under the prevailing theory). But what is the universe, and is it the same thing as the world? In common usage these terms have nebulous meanings, but we'd like to be precise.
+[Cosmology](https://en.wikipedia.org/wiki/Cosmology) tells us about the ancient history of the universe going back to the (theorized) Big Bang. But what is the universe, and is it the same thing as the world? In common usage these terms have nebulous meanings, but we'd like to be precise.
 
 By "the universe," I shall mean "everything physical which is spatiotemporally connected to Earth," meaning everything to which you could draw a line through space-time from Earth. This may, in fact, include everything, so that the universe and the world are the same entity. This nomenclature is probably consistent with most usages of the term "universe."
 
