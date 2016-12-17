@@ -6,7 +6,7 @@ The question of the origins of the world is really a conflation of two potential
 
 [Cosmology](https://en.wikipedia.org/wiki/Cosmology) tells us about the ancient history of the universe going back to the (theorized) Big Bang. But what is the universe, and is it the same thing as the world? In common usage these terms have nebulous meanings, but we'd like to be precise.
 
-By "the universe," I shall mean "everything physical which is spatiotemporally connected to Earth," meaning everything to which there exists a path through space-time from Earth. This may, in fact, include everything, so that the universe and the world are the same entity. This nomenclature is probably consistent with most usages of the term "universe."
+By "the universe," I shall mean "everything physical which is spatiotemporally connected to Earth," meaning everything to which there exists a path through space-time from Earth. This may, in fact, include everything, so that the universe and the world are the same entity. 
 
 We do not have concrete physical evidence of any parts of the world which are not part of the universe. This makes a lot of sense, given that when people have concrete physical evidence of a thing, this is always the outcome of some kind of chain of causality proceeding through space-time from the thing to our sensory organs.
 
