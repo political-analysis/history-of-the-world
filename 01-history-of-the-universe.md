@@ -1,4 +1,4 @@
-Cultures in all regions of the world for all of known history have had stories of the origins of the world. Since these stories contradict each other on so many points, most of them are false.
+Cultures in all regions of the world for all of known history have had [stories of the origins of the world](https://en.wikipedia.org/wiki/Creation_myth). Since these stories contradict each other on so many points, most of them are false.
 
 By "the world," I shall mean "what exists." In this nomenclature, the known universe is part of the world. We assume there are unknown things that exist, which are also part of the world. God is part of the world, if God exists; angels are part of the world if they exist; and so forth.
 
