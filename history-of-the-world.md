@@ -1,0 +1,7 @@
+In this blog series I aim to give an overview of the history of the world. By "the world," I mean existence as it is known to humans. By "history," I simply mean "the past." My usage of the term "history" is thus different from its standard usage in reference to the academic field of history.
+
+The academic field of history studies the past as revealed through written records produced by humans. What I mean by "history" is all our knowledge about the past, as revealed through all means available to us. The focus is on the history of Earth, and specifically the life of humans on Earth, but we put the life of humans on Earth in the context of the natural history of the Earth, and in the context of the history of the universe as a whole as it's known to us through science.
+
+This is a secular history; no religious point of view is assumed or argued for. However, I aim to discuss the religious beliefs of historical societies, and to give religions their proper significance in history.
+
+N.B. The term "religion" is for many religions a term applied by historians or present-day commentators to traditions whose followers did not, and/or do not, call their traditions a religion. The same, of course, applies to the term "tradition." Terms like "tradition" and "religion" are useful, and I will use them, but they are fuzzy classifications belonging to the English language and not features of observable reality itself. It's good to distinguish [the map from the territory](https://wiki.lesswrong.com/wiki/Map_and_Territory_(sequence)).
