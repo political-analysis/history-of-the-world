@@ -1,6 +1,6 @@
 Cultures in all regions of the world for all of known history have had [stories of the origins of the world](https://en.wikipedia.org/wiki/Creation_myth). Since these stories contradict each other on so many points, most of them are false.
 
-By "the world," I shall mean "what exists." In this nomenclature, the known universe is part of the world. We assume there are unknown things that exist, which are also part of the world. God is part of the world, if God exists; angels are part of the world if they exist; and so forth.
+By "the world," I shall mean "what exists." In this nomenclature, the known universe is part of the world. God is part of the world, if God exists; angels are part of the world if they exist; and so forth.
 
 The question of the origins of the world is really a conflation of two potentially related questions. First, why does anything exist? This is a deep mystery which has not yielded much to rational investigation. Second, what is the ancient history of the world going back to the beginning of time, if time has a beginning? The second question is also a deep mystery, but more amenable to rational investigation.
 
