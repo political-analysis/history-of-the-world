@@ -24,6 +24,6 @@ For the rest of this post, our topic will be the history of the universe, with a
 
 The prevailing theory of the formation of the universe is the [Big Bang theory](https://en.wikipedia.org/wiki/Big_Bang). The modern Big Bang theory is a complex, highly developed model of the early history of the universe. However, the basic premise of the Big Bang theory is simple. 
 
-By observing the [redshifts](https://en.wikipedia.org/wiki/Redshift) of distant galaxies and clusters, astronomers concluded that all distant galaxies and clusters are receding from our vantage point with a velocity proportional to their distance. The most reasonable interpretation is that the universe is expanding.
+By observing the [redshifts](https://en.wikipedia.org/wiki/Redshift) of distant galaxies and clusters, astronomers concluded that all distant galaxies and clusters are receding from our vantage point with a velocity proportional to their distance. The only sensible interpretation of this conclusion is that the universe is expanding.
 
 If the universe is expanding, then if we were to look at the universe in reverse motion, we would see the universe contracting. If we extrapolate this trend backwards in time, we would expect to arrive at a starting point where the universe is crammed into a small space, therefore very dense and hot, and about to expand very rapidly in what we could describe as a huge explosion. This logic is the essential basis of the Big Bang theory, although we have not yet discussed all evidence in favor of the theory.
